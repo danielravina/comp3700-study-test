@@ -4,8 +4,14 @@
 		Ruby >= 1.9.3
 ## Installation
 		$ clone repo
+
+## Run
+
 Execute:
-    $ bundle
+
+  	$ bundle
+
 Run:
+
 	$ ruby main.rb
 
