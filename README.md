@@ -1,9 +1,11 @@
 # Comp 3700 Study Test
 
 ## Requirements
-		Ruby >= 1.9.3
+
+	Ruby >= 1.9.3
 ## Installation
-		$ clone repo
+
+	$ git clone git@github.com:danielravina/comp3700-study-test.git
 
 ## Run
 
