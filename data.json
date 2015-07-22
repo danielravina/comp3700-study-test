@@ -1,0 +1,1603 @@
+[
+    {
+        "@type": "CardUserDetails",
+        "id": 354260411,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 1,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "<div>Which of the following is logical in Active Directory?</div><div><br></div>Domain, Domain Controllers, Sites, Subnet."
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Domain, Sites"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354260628,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 2,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "You computer name is COMPUTERXX and domain is called STUDENTXX in a parent domain of COMP3700. How do you log on?"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "STUDENTXX"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354260910,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 3,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Your computer name at the lab is COMPUTERXX and domain is called STUDENTXX in parent domain of COMP3700. How will users access resources (data) on your computer from the network?"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "COMPUTERXX"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354261023,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 4,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "What are the requirements to install domain controller?"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "TCP/IP, NTFS, Administrator"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354261162,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 5,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "What is the name of Active Directory Database?"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "NTDS.DIT"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354261251,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 6,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "What is Sysprep?"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Run before making image to strip unique elements"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354261306,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 7,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "What command promotes server to domain controller?"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "DCPROMO"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354261418,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 8,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "How many global catalogs do you need if you have 6 different sites?"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "6"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354261521,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 9,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "The Microsoft definition of a well connected site."
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "512K or higher"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354261635,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 10,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "If domain A trusts B, and B trusts C, what is the trust between A and C?"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Default two way transitive trust."
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354261817,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 11,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Tree vs Forest"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "A tree groups domains in a contiguous namespace, but forest groups trees in a disjointed namespace that are linked or related."
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354261869,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 12,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Schema"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Defines all attributes of an object."
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354262533,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 13,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Mandatory roaming profile requirements."
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "<ul><li>Profiles must be roaming to become mandatory</li><li>ntuser.dat must be renamed to ntuser.man</li></ul><div><br></div>"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354262660,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 14,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Domain Local Group"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Allows <i>users from any domain</i>, but can only <i>access resources in local domain</i>.&nbsp;"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354277548,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 15,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Global Group"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Only <i>allows users from local domain</i>, but can <i>access resources from anywhere in the forest</i>."
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354282727,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 16,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Universal Group"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "<i>Allows users from any domain</i> to <i>access resources from any domain</i> in the forest."
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354283100,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 17,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "If a user has a grant permission in one group and a deny permission in another, which one takes precedence?"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Deny"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354284391,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 18,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "If a folder is on a drive with NTFS and is copies to a FAT drive, what permissions does it have after copying?"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "None."
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354285148,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 19,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "In order for disk quotas to work, you must:"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Check the enable quota management box"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354285644,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 20,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "A folder is moved from one NTFS drive to another. What permissions does it have?"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "The folder inherits the permissions from the new drive."
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354286292,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 21,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Compact command switches /c /u /s"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "/c - compress<div>/u - uncompress</div><div>/s - compress or decompress subdirectories</div>"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354289399,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 22,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Recovery Agent"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "is a Windows entity that can decrypt files encrypted by another user"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354289668,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 23,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Cipher switches for decrypting and encrypting files"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "/d /e"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354289875,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 24,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Event Viewer meanings:<div><ul><li>Red circle with X</li><li>Circle with blue i</li><li>Yellow triangle with !</li></ul></div>"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "<ul><li>Serious problem</li><li>Non-serious problem</li><li>Successfully completed</li></ul><div><br></div>"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354290009,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 25,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Security Configuration and Control tool"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Tracks security features across multiple computers."
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354290109,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 26,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Who can access an encrypted file?"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "<ul><li>User who encrypted the file</li><li>Recovery Agent</li></ul><div><br></div>"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354290218,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 27,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Delegation of Control Wizard"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Used to delegate control of Active Directory OUs"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354290314,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 28,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Default Recovery Agent in a domain"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Domain Admin"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354290843,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 29,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Protocol VPN Supports"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "IPX/SPX, IP, NetBeui"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354291320,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 30,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Methods to secure a VPN"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Access Policies<div>User Accounts</div>"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354291491,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 31,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Two new protocols supported in Windows 2008"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "<ul><li>EAP</li><li>RADIUS</li><li>BAP</li><li>L2TP</li></ul><div><br></div>"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354291591,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 32,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "What does RADIUS stand for?"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Remote Authentication Dial-In User Service"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354292103,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 33,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "L2TP vs PPTP"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "<ul><li><span>L2TP uses IPSec, PPTP uses PPP for encryption.</span><br></li><li>PPTP can use IPSec, with performance hit.</li><li>L2TP supports header compression and tunnel authentication</li></ul><div><br></div>"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354292346,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 34,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "If you use multilink to dial in to a server that requires callback, the server server only calls back ___ device(s)."
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "1"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354292554,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 35,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "How many ports does Windows 2008 automatically create for PPTP and L2TP when started for the first time?"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "128"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354292906,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 36,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Benefits of BAP (Bandwidth Allocation Protocol)"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "<ul><li>Can add or drop links on command, allowing clients to connect if there are other devices using multiple links</li><li>Can dynamically allocate bandwidth based on needs of the application.</li></ul><div><br></div>"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354293645,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 37,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Leaf Objects AD"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "<span>Does not store other objects, so it occupies the endpoint of a subtree. (ie.Domain)</span>"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354293917,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 38,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Active Directory Requirements"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "<ul><li>NTFS</li><li>TCP/IP</li><li>DNS</li></ul><div><br></div>"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354294481,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 39,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Active Directory information is stored on each domain controller in a file called?"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "NTDIS.dat"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354294713,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 40,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "DCPROMO"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Promotes a member server to domain controller. Can also uninstall DC."
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354294986,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 41,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Default Trust for Windows 2008"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Two way transitive"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354295061,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 42,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "First domain created on a network"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Root"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354295216,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 43,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Logical objects in active directory"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "<ul><li>AD Sites</li><li>Domain</li></ul><div><br></div>"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354295292,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 44,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Can you create local groups on domain controllers?"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "No"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354295640,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 45,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Share vs Security Permissions"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Share is for files/folders on the network, Security is for local access."
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354296186,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 46,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Can users be members of more than one group?"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Yes. Permissions can be combined providing admins with more control."
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354297011,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 47,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "If a folder on an NTFS drive is moved to another location on the same drive, what permissions will it have?"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "The original permissions are retained."
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354297259,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 48,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Roaming Profile"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "<span>A user profile that follows the user no matter which computer he or she logs on to. It's stored on a network share so that when a user logs on to any computer in the network, the profile is copied from the network share to the profile folder on the local computer.</span><br>"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354298066,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 49,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "PTR Record"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Allows DNS Server to map addresses back to host-names (reverse lookup)"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354298298,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 50,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "A Record"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "An address record that maps a name to an address. The address is specified in the data field in a dotted decimal format."
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354298675,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 51,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Automatic Private IP Address"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "An IP address in the address range 169.254.xxx.xxx used by a computer when it cannot successfully lease an IP address from  DHCP server.&nbsp;"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354298929,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 52,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "If you have two AD networks that you want to connect to one another, what do you need to do."
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Establish cross forest trust between the two."
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354433740,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 53,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Distinguished Name"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Fully qualified name or path. ie.&nbsp;                                                                                            <span>/DC=COM /DC=flybynight /OU=Sales /CN=users /CN=John Doe</span>"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354433788,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 54,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Relative Distinguished Name"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Usually the object's common name - ie. 'John Doe'"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354433807,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 55,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Global Unique Identifier"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Unique 128-bit static number automatically assigned to each object when created."
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354433842,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 56,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "User Principle Name (UPN)"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Used for each user account in directory. E-mail type name. Usually first initial, then last name, followed by domain. ie. JDoe@flybynight.com"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354433913,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 57,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "AIK"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Windows Automated Installation Kit. Tools/Docs that allow administrators to plan, create, deploy image files to computers on network."
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354433990,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 58,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "NTFS features"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "<ul><li><span>File/folder security</span><br></li><li><span>Required for domain controllers and AD</span></li><li><span>Allows data encryption</span></li><li><span>Allows disk quotas</span></li><li><span>Max volume/file size 2TB</span></li></ul><div><br></div><div><br></div>"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354434078,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 59,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Permissions when:<div>Copying to same and different NTFS</div><div>Moving to same and different NTFS</div>"
+        },
+        "back": {
+            "url": "https://s3.amazonaws.com/classconnection/979/flashcards/4092979/png/screen_shot_2015-04-08_at_15749_am-14C984076590AF97D74.png",
+            "sideOrderNumber": 2,
+            "imageFill": false,
+            "cardType": "IMAGE",
+            "text": ""
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354434125,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 60,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Combined permissions if member of multiple share permissions."
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Permissions combined, and Highest level of access is assigned."
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354434138,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 61,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "<span>Combined permissions if member of multiple security permissions.</span>"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Permissions combined, and highest level of access is assigned."
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354434165,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 62,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Combined permissions if user is a member of share AND security permissions."
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Permissions combined and most restrictive permission assigned."
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354434288,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 63,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Security vs Distribution groups"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Distribution used only for email distribution- not associated security or permissions.<div><br></div><div>Security groups used to restrict/allow access to resources.</div>"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354434360,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 64,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Basic vs Dynamic storage"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Basic is default mode, but cannot create new volumes, mirrored or striped volumes.<div><br></div><div>Dynamic allows extending volumes, as well as creating new mirrored, striped and raid 5 volumes. Also can be repaired.</div>"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354434403,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 65,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "RAID 0"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Striping. 2-32 drives. Fast read/write, but no fault tolerance."
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354434552,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 66,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "RAID 1"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Disk Mirroring. 2 disks. Fault tolerant because 2 copies of data."
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354434577,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 67,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "RAID 5"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Striping with parity.  3+ drives. Fast, and tolerant of faults."
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354434611,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 68,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Spanned volumes"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "consists of space from 2+ disks. no recovery."
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354434675,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 69,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Striped and mirrored volumes cannot be extended. True/false?"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "True"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354434911,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 70,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Local Security Policies"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "<ul><li><span>Message for users when logging on</span><br></li><li><span>Restrict floppy access</span></li><li><span>Do not display last username</span></li></ul><div><br></div>"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354434949,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 71,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Local User Rights Assignment policies"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "<ul><li>Access device from network</li><li>Shut down system</li></ul><div><br></div>"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354435038,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 72,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Password Policies"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "<ul><li>Max age</li><li>Min length</li><li>Meet complexity requirements</li></ul><div><br></div>"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354435059,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 73,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Account Lockout Policy"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "<ul><li>Lockout duration</li><li>Lockout threshold</li></ul><div><br></div>"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354435146,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 74,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Application vs Security vs System logs"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "<ul><li>Application -events related to program such as errors</li><li>Security log - events related to security such as logon attempts</li><li>System log - startup/shutdown info etc</li></ul><div><br></div>"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354435233,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 75,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Terminal Services"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Run application on server desktop without using client resources."
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354435286,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 76,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "change user commands"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "change user /install puts system in install mode<div><br></div><div>change user /execute returns system to execute mode, restores ini mapping</div>"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354435348,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 77,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Recover a failed mirrored volume"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Reactivate disk. May want to replace if fails."
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354435374,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 78,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Recover failed Raid 5"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "Reactivate Disk"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354435422,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 79,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "Recovery Console"
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "command line interface can be used to restore from backup.&nbsp;"
+        },
+        "clientID": null
+    },
+    {
+        "@type": "CardUserDetails",
+        "id": 354435475,
+        "mastered": false,
+        "crumbTrail": [],
+        "cardOrderNumber": 80,
+        "front": {
+            "url": null,
+            "sideOrderNumber": 1,
+            "cardType": "TEXT",
+            "text": "     <p>To restore just the system state from a backup, which command do you use?</p>                                     "
+        },
+        "back": {
+            "url": null,
+            "sideOrderNumber": 2,
+            "cardType": "TEXT",
+            "text": "     <p><span>wbadmin Start SystemStateRecovery &#8211;version<i>MM/DD/YYYY-HH:MM</i></span></p>                                     "
+        },
+        "clientID": null
+    }
+]
